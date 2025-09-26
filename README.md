@@ -12,19 +12,15 @@
 
 ## 📈 활동
 
-<table>
-  <tr>
-    <td>
-      <a href="https://solved.ac/yeongjin2024/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongjin2024"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yyeongjin&show_icons=true&theme=gotham"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+  <a href="https://solved.ac/yeongjin2024/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongjin2024" />
+  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=yyeongjin&show_icons=true&theme=gotham" />
+
+</div>
 
 ---
 
