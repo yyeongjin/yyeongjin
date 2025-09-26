@@ -31,6 +31,6 @@
   <a href="https://velog.io/@yyeongjin/posts">Velog</a> •
   <a href="https://instagram.com/dudwls_05/">Instagram</a> •
   <a href="mailto:appsky1888@naver.com">Email</a> •
-  <a href="https://quixotic-honesty-7d7.notion.site/Yeongjin-Jo-3d3dc14ad8b04d95be966febe04fe2cd">Notion</a>
+  <a href="https://quixotic-honesty-7d7.notion.site/Yeongjin-Jo-3d3dc14ad8b04d95be966febe04fe2cd">Portfolio</a>
 </p>
 
